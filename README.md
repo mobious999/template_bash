@@ -5,10 +5,7 @@ Miscellaneous scripts to enhance bash (prompt, adding directories to variables, 
 
 Table of Contents
 * [Scripts](#scripts)
-  * [push.bashrc](#pushbashrc)
-  * [ssh.bashrc](#sshbashrc)
-  * [munge.bashrc](#mungebashrc)
-  * [cyg-wrapper.sh](#cyg-wrappersh)
+ * [push.bashrc](#pushbashrc)
 * [Installation](#installation)
 
 ## Scripts
